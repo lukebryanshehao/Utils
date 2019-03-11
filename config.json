@@ -1,0 +1,8 @@
+{
+  "Addr": "localhost:8472",
+  "BasePath": "/core",
+  "ConsulAddr": "localhost:8500",
+  "NsqAddr": "localhost:4161",
+  "UserBasePath": "/publish_local_user",
+  "UserServicePath": "server.user"
+}
